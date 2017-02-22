@@ -13,6 +13,6 @@ Create an application to change a map's projection from a selected origin [O] ba
 
 - How hard is it fit a limited set of t to a given f[r, theta]?
 
-- How do I transform an image based my new f[r,theta] (easy)?
+- How do I transform an image based my new f[r,theta]? (easy)
 
-- How do I tranform and maintain the features of original geography (hard)?
+- How do I tranform and maintain the features of original geography? (hard)
