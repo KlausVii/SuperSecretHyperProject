@@ -1,6 +1,6 @@
 # SuperSecretHyperProject
 
-### Concept
+### Concept 0: map projection
 Create an application to change a map's projection from a selected origin [O] based on a selected travel method [e.g. public transport, walking, etc.] as defining the new mapping. A given travel method would create mapping of geographic points [r,theta] to just time [t].
 
 ### Plan of Action
@@ -16,3 +16,11 @@ Create an application to change a map's projection from a selected origin [O] ba
 - How do I transform an image based my new f[r,theta]? (easy)
 
 - How do I tranform and maintain the features of original geography? (hard)
+
+
+### Concept 1: Machine Learns Reddit
+
+Input: reddit posts and their votes, reinforced from own votes
+
+First: first predict comment or posts upvotes based on text (+context?)
+
